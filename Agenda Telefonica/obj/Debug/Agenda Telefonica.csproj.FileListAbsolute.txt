@@ -1,0 +1,30 @@
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe.config
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.pdb
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csprojResolveAssemblyReference.cache
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.GenerateResource.Cache
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.exe
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.pdb
+C:\Users\Heiner\Desktop\Video progra\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.AgendaTeléfonica.resources
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe.config
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.pdb
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csprojResolveAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.AgendaTeléfonica.resources
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.GenerateResource.Cache
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.exe
+C:\Users\Heiner\Desktop\Progra verano\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.pdb
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe.config
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\bin\Debug\Agenda Telefonica.pdb
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.AgendaTeléfonica.resources
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Properties.Resources.resources
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.GenerateResource.cache
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.exe
+G:\Archivos de Carrera\2017\Progra verano 2017\Agenda Telefonica\Agenda Telefonica\obj\Debug\Agenda Telefonica.pdb
